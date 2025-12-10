@@ -4,7 +4,7 @@ This repository hosts experimental and beta versions of XIVLauncher.Core for tes
 > [!WARNING]  
 > These builds are not supported outside of our dedicated testing feedback spaces. Please do not report issues with these builds anywhere else, including the primary XIVLauncher.Core repository.
 >
-> **Additionally, while they are usually tested by a developer beforehand, these builds are not guarenteed to be stable. Only use them if you are comfortable resolving things manually and make regular backups of your data beforehand.**
+> **Additionally, while they are usually tested by a developer beforehand, these builds are not guaranteed to be stable. Only use them if you are comfortable resolving things manually and make regular backups of your data beforehand.**
 
 ## How to use experimental builds
 
