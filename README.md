@@ -1,6 +1,11 @@
 # xlcore-experiments
 This repository is for releases of experimental/beta builds of XIVLauncher.Core that are used for semi-public testing.
 
+> [!WARNING]  
+> These builds are not supported outside of our dedicated testing feedback spaces. Please do not report issues with these builds anywhere else, including the primary XIVLauncher.Core repository.
+>
+> **Additionally, while they are usually tested by a developer beforehand, these builds are not guarenteed to be stable. Only use them if you are comfortable resolving things manually and make regular backups of your data beforehand.**
+
 ## Using experimental builds
 
 Currently the only recommended way to opt into a experimental build is by using [XLM](https://github.com/Blooym/XLM) as it provides an easy method for automatic updates. Follow the instructions below to opt in to a build, replacing the `BUILD_NAME` placeholder with the name of the build you'd like to use.
