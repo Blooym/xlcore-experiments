@@ -7,7 +7,7 @@ Currently the only recommended way to opt into a experimental build is by using 
 
 In your Steam Launch Arguments, add the following:
 ```
---xlcore-web-release-url https://github.com/Blooym/xlcore-experiments/releases/download/BUILD_NAME/
+--xlcore-web-release-url="https://github.com/Blooym/xlcore-experiments/releases/download/BUILD_NAME/"
 ```
   - *You cannot opt in to beta builds of XIVLauncher.Core while you have either `--xlcore-repo-owner`, `--xlcore-repo-name` or `--xlcore-release-asset` configured in your launch options. Please remove them if you wish to use an experimental build.*
   - *If at any time you wish to switch back to stable release builds, simply remove the given launch argument and restart the launcher.*
